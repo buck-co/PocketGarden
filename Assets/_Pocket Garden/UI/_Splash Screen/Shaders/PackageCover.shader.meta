@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9060e6adfe951a74c90c730a5363aef0
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _MainTex: {fileID: 2800000, guid: 67da467f951db4942b25ab09740b970a, type: 3}
+  - _Shine: {fileID: 2800000, guid: 72aa25d2f726e4d208c5175130f948dc, type: 3}
+  - _Mask: {fileID: 2800000, guid: ebc30419b124d4a25914e5b88035069c, type: 3}
+  - _PlasticReflection: {fileID: 2800000, guid: a078ff0f8047e4d57b8d2b1cf5219255,
+      type: 3}
+  - _HolographicTexture: {fileID: 2800000, guid: 564f114af2761402fbb7a8f80ca0a862,
+      type: 3}
+  - _PlasticMask: {fileID: 2800000, guid: aafd8738659dc4c248a4929865893e18, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,142 @@
+{
+    "m_SelectedDeviceId": "09041FDD4002YF",
+    "m_SelectedPackage": {
+        "deviceId": "09041FDD4002YF",
+        "name": "com.buck.pocketgarden",
+        "processId": 5260,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "09041FDD4002YF",
+            "name": "com.buck.pocketgarden",
+            "processId": 31747,
+            "exited": true
+        },
+        {
+            "deviceId": "09041FDD4002YF",
+            "name": "com.buck.pocketgarden",
+            "processId": 32363,
+            "exited": true
+        },
+        {
+            "deviceId": "09041FDD4002YF",
+            "name": "com.google.android.apps.nexuslauncher",
+            "processId": 2862,
+            "exited": false
+        },
+        {
+            "deviceId": "09041FDD4002YF",
+            "name": "com.buck.pocketgarden",
+            "processId": 1563,
+            "exited": true
+        },
+        {
+            "deviceId": "09041FDD4002YF",
+            "name": "com.buck.pocketgarden",
+            "processId": 3465,
+            "exited": true
+        },
+        {
+            "deviceId": "09041FDD4002YF",
+            "name": "com.buck.pocketgarden",
+            "processId": 20678,
+            "exited": true
+        },
+        {
+            "deviceId": "09041FDD4002YF",
+            "name": "com.buck.pocketgarden",
+            "processId": 21534,
+            "exited": false
+        },
+        {
+            "deviceId": "09041FDD4002YF",
+            "name": "com.buck.pocketgarden",
+            "processId": 22694,
+            "exited": false
+        },
+        {
+            "deviceId": "09041FDD4002YF",
+            "name": "com.buck.pocketgarden",
+            "processId": 23522,
+            "exited": false
+        },
+        {
+            "deviceId": "09041FDD4002YF",
+            "name": "com.buck.pocketgarden",
+            "processId": 25060,
+            "exited": false
+        },
+        {
+            "deviceId": "09041FDD4002YF",
+            "name": "com.buck.pocketgarden",
+            "processId": 1457,
+            "exited": false
+        },
+        {
+            "deviceId": "09041FDD4002YF",
+            "name": "com.buck.pocketgarden",
+            "processId": 5260,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "Null",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": [
+        {
+            "Name": "D:\\Unity Editors\\2021.3.1f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\Variations\\il2cpp\\Release\\Symbols\\arm64-v8a",
+            "Enabled": true
+        }
+    ]
+}

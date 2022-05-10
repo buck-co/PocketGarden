@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 063699d44ebb25643abadef8be1a295c, type: 3}
+  m_Name: PlantConfiguration_Cactus
+  m_EditorClassIdentifier: 
+  PlantName: Leafy
+  BasePrefabs:
+  - {fileID: 1557974033411752637, guid: 2205dd66c1f3a0d4a8d83ac63333412a, type: 3}
+  - {fileID: 4662608921817305990, guid: 12a986efe61c6234ea45a940f890f5b6, type: 3}
+  - {fileID: 2632252702216351549, guid: 2de83f1a47df1ed49bb4e3c8bebcd5bd, type: 3}
+  LeafPrefabs: []
+  FlowerPrefabs:
+  - {fileID: 1098153462017254235, guid: cfcd43dc24c319c4aa528e72cc887505, type: 3}
+  FruitPrefabs:
+  - {fileID: 2311415565511568733, guid: 3f4532253d9ad1e4d92c33d6f7d89774, type: 3}
+  Material: []
+  Textures: []
+  GrowthPerTickWatered: 0.25
+  GrowthPerTickThirsty: 0.01
+  LeafProbability: 0.8
+  FlowerProbability: 0.8
+  FruitProbabiltiy: 1
+  RandomNoiseScale: 1
+  RandomScaleAmount: 0.5
+  ShakeDistance: 0.75
+  ShakeSmoothSpd: 10
+  ShakeAnimateThresh: 0.2
+  ShakeHarvestSpeed: 1
+  InventoryIcon: {fileID: 21300000, guid: 7e55f194ed67b4baea9b3d99edfe20f3, type: 3}
+  InventoryIconDisabled: {fileID: 21300000, guid: 356e27686265e4ff78b4e80ba7edec7d,
+    type: 3}

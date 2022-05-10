@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26c34c581b3289344b779d66de83ee73, type: 3}
+  m_Name: SoundLib
+  m_EditorClassIdentifier: 
+  Sounds:
+  - id: PlantPreview
+    clip: {fileID: 8300000, guid: 279dc5a963e23674cb476066f8c44a84, type: 3}
+  - id: CancelPlacement
+    clip: {fileID: 8300000, guid: 1256d6d52ee0749498956d61fd62793b, type: 3}
+  - id: AcceptPlacement
+    clip: {fileID: 8300000, guid: 5c6895c80978fb843927fbe79a8d969e, type: 3}
+  - id: AddingSeeds
+    clip: {fileID: 8300000, guid: 1193660d0c549654e81043532157267a, type: 3}
+  - id: 1
+    clip: {fileID: 8300000, guid: 5108a311ed50af447934ba40b24c6ef7, type: 3}
+  - id: 2
+    clip: {fileID: 8300000, guid: a2b3e91c458fe07428bedd7b392b6720, type: 3}
+  - id: 3
+    clip: {fileID: 8300000, guid: 3efbbfb3f9686c64b9f9e752d320ce76, type: 3}
+  - id: 4
+    clip: {fileID: 8300000, guid: 8074f9519eca6f042ba711536937d290, type: 3}
+  - id: 5
+    clip: {fileID: 8300000, guid: 567c8cf2d57248d4c867030bb9dd9b31, type: 3}
+  - id: 6
+    clip: {fileID: 8300000, guid: 593583107f5122448a75ddad378a1157, type: 3}
+  - id: 7
+    clip: {fileID: 8300000, guid: c1452e38632327a4c8d2c820b3e63ae0, type: 3}
+  - id: 8
+    clip: {fileID: 8300000, guid: a907c7e240a17ca4cb9dac83ccf2c36c, type: 3}
+  - id: 9
+    clip: {fileID: 8300000, guid: f0a3a81bd3c873749bd7e36bbff0ca94, type: 3}
+  - id: 10
+    clip: {fileID: 8300000, guid: 627fea3e61eebd04c916ad058ad72349, type: 3}
+  - id: 11
+    clip: {fileID: 8300000, guid: 75d8e861510ad3c4394127fcc8ea8174, type: 3}
+  - id: 12
+    clip: {fileID: 8300000, guid: cc5573e0c18a274458f4873d6c21a283, type: 3}
+  - id: 13
+    clip: {fileID: 8300000, guid: 17fe4cf71650a194383150989001637d, type: 3}
+  - id: 14
+    clip: {fileID: 8300000, guid: 1b7456d7124acd441949844b962c0621, type: 3}
+  - id: PlantShakeL
+    clip: {fileID: 8300000, guid: 6c1728515a111494b89a91ba7774d989, type: 3}
+  - id: PlantShakeR
+    clip: {fileID: 8300000, guid: f9f2c55ae36bddd4f921ceeefcaf702d, type: 3}
+  - id: Grow1
+    clip: {fileID: 8300000, guid: d6b09fbd1962946878bad5bed43c457a, type: 3}
+  - id: Grow2
+    clip: {fileID: 8300000, guid: 93a1afb01d9c64ec4bf3855bd8f0a607, type: 3}
+  - id: WateringLoop
+    clip: {fileID: 8300000, guid: 69f9100f2feb144c5a7e3ad47408cff3, type: 3}

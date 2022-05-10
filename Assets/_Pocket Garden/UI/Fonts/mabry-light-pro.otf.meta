@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: dd7c0a2318f82460ca33834f455d9703
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Mabry Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 62ca1d7dd1e2343ba97d5ae43de07113, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

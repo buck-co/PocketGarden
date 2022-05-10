@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 063699d44ebb25643abadef8be1a295c, type: 3}
+  m_Name: PlantConfiguration_Leafy
+  m_EditorClassIdentifier: 
+  PlantName: Leafy
+  BasePrefabs:
+  - {fileID: 3103768760890804784, guid: 7af6eedafc3694047bf6e6f91b224d4b, type: 3}
+  - {fileID: 3103768760890804784, guid: 55bfc509eac3d8745a83b16132ccf4e7, type: 3}
+  - {fileID: 3103768760890804784, guid: 84cea124a1a06104d8562402c448acec, type: 3}
+  LeafPrefabs: []
+  FlowerPrefabs:
+  - {fileID: 1191421544504575568, guid: bf611a826cf4b7c4da52c31dd1e9936c, type: 3}
+  FruitPrefabs:
+  - {fileID: 3348280152877719067, guid: 5a3c7e2be9446064991045f684246444, type: 3}
+  Material: []
+  Textures: []
+  GrowthPerTickWatered: 0.25
+  GrowthPerTickThirsty: 0.01
+  LeafProbability: 0.8
+  FlowerProbability: 0.8
+  FruitProbabiltiy: 1
+  RandomNoiseScale: 1
+  RandomScaleAmount: 0.5
+  ShakeDistance: 0.75
+  ShakeSmoothSpd: 10
+  ShakeAnimateThresh: 0.2
+  ShakeHarvestSpeed: 1
+  InventoryIcon: {fileID: 21300000, guid: be19d6f265607472d85f5cc154c4c270, type: 3}
+  InventoryIconDisabled: {fileID: 21300000, guid: 5fdbb4374f5ec41cd9b0b015983f960b,
+    type: 3}

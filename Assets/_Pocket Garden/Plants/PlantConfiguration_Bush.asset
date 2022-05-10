@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 063699d44ebb25643abadef8be1a295c, type: 3}
+  m_Name: PlantConfiguration_Bush
+  m_EditorClassIdentifier: 
+  PlantName: Bush
+  BasePrefabs:
+  - {fileID: 5117119838615066348, guid: 727e66de0d0c3437f977afa3b92b6c1f, type: 3}
+  - {fileID: 5117119838615066348, guid: c339725a1e2004f978491e247fdd4be4, type: 3}
+  - {fileID: 5117119838615066348, guid: d50af4adf0334724ea867b98b8c81970, type: 3}
+  LeafPrefabs: []
+  FlowerPrefabs:
+  - {fileID: 6260470119780698458, guid: 87675f385403b734f8c0e1a563273db6, type: 3}
+  FruitPrefabs:
+  - {fileID: 85659293279838103, guid: a1208fea35e14d846b1fbcb445370d9c, type: 3}
+  Material: []
+  Textures: []
+  GrowthPerTickWatered: 0.25
+  GrowthPerTickThirsty: 0.01
+  LeafProbability: 0.8
+  FlowerProbability: 0.8
+  FruitProbabiltiy: 1
+  RandomNoiseScale: 1
+  RandomScaleAmount: 0.5
+  ShakeDistance: 0.75
+  ShakeSmoothSpd: 10
+  ShakeAnimateThresh: 0.2
+  ShakeHarvestSpeed: 1
+  InventoryIcon: {fileID: 21300000, guid: aa61d80fe6caa4165a100d2f0d5e476c, type: 3}
+  InventoryIconDisabled: {fileID: 21300000, guid: fb0868f651e2c4e68b2c011339f24956,
+    type: 3}

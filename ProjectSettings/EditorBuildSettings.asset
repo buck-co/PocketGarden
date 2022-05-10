@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Pocket Garden/PocketGarden.unity
+    guid: d8589118e8752d149993f01ac5c98b1e
+  - enabled: 0
+    path: Assets/_GeoAR Framework/BasicExample.unity
+    guid: d544a2060c6439d41a0d376fc1fb4271
+  m_configObjects:
+    AR Foundation RemoteARFoundationRemoteLoaderSettings: {fileID: 11400000, guid: 5ee177c1529cf204693b2a6168ab4b33,
+      type: 2}
+    AR Foundation RemoteARFoundationRemoteSessionRecordsData: {fileID: 11400000, guid: ccab2c83fb0e93b42bc2199b88a077f4,
+      type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 4ce7c021cb0ced04ea06bcaf950d368e,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: de8a8e4f987434338a4b1062feb8d069,
+      type: 2}
+    com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: fdd59603f19f1564992f28a9a201b999,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 0ee636dd0ab6d7e41b3f3ca1e3ef3644,
+      type: 2}
